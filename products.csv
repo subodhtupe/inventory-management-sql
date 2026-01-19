@@ -1,0 +1,101 @@
+product_id,product_name,supplier_id,category,unit_price
+1,Laptop Model A,1,Electronics,55000
+2,Laptop Model B,1,Electronics,56000
+3,Laptop Model C,1,Electronics,57000
+4,Laptop Model A,1,Electronics,58000
+5,Laptop Model B,1,Electronics,59000
+6,Laptop Model C,1,Electronics,60000
+7,Laptop Model A,1,Electronics,61000
+8,Laptop Model B,1,Electronics,62000
+9,Laptop Model C,1,Electronics,63000
+10,Laptop Model A,1,Electronics,64000
+11,Laptop Model B,1,Electronics,65000
+12,Laptop Model C,1,Electronics,66000
+13,Laptop Model A,1,Electronics,67000
+14,Laptop Model B,1,Electronics,68000
+15,Laptop Model C,1,Electronics,69000
+16,Laptop Model A,1,Electronics,70000
+17,Laptop Model B,1,Electronics,71000
+18,Laptop Model C,1,Electronics,72000
+19,Laptop Model A,1,Electronics,73000
+20,Laptop Model B,1,Electronics,74000
+21,Desk Model A,3,Furniture,7000
+22,Desk Model B,3,Furniture,7200
+23,Desk Model C,3,Furniture,7400
+24,Desk Model A,3,Furniture,7600
+25,Desk Model B,3,Furniture,7800
+26,Desk Model C,3,Furniture,8000
+27,Desk Model A,3,Furniture,8200
+28,Desk Model B,3,Furniture,8400
+29,Desk Model C,3,Furniture,8600
+30,Desk Model A,3,Furniture,8800
+31,Desk Model B,3,Furniture,9000
+32,Desk Model C,3,Furniture,9200
+33,Desk Model A,3,Furniture,9400
+34,Desk Model B,3,Furniture,9600
+35,Desk Model C,3,Furniture,9800
+36,Desk Model A,3,Furniture,10000
+37,Desk Model B,3,Furniture,10200
+38,Desk Model C,3,Furniture,10400
+39,Desk Model A,3,Furniture,10600
+40,Desk Model B,3,Furniture,10800
+41,Rice 1kg,2,Food,50
+42,Rice 2kg,2,Food,55
+43,Rice 3kg,2,Food,60
+44,Rice 4kg,2,Food,65
+45,Rice 5kg,2,Food,70
+46,Rice 6kg,2,Food,75
+47,Rice 7kg,2,Food,80
+48,Rice 8kg,2,Food,85
+49,Rice 9kg,2,Food,90
+50,Rice 10kg,2,Food,95
+51,Rice 11kg,2,Food,100
+52,Rice 12kg,2,Food,105
+53,Rice 13kg,2,Food,110
+54,Rice 14kg,2,Food,115
+55,Rice 15kg,2,Food,120
+56,Rice 16kg,2,Food,125
+57,Rice 17kg,2,Food,130
+58,Rice 18kg,2,Food,135
+59,Rice 19kg,2,Food,140
+60,Rice 20kg,2,Food,145
+61,Notebook 1,3,Stationery,20
+62,Notebook 2,3,Stationery,22
+63,Notebook 3,3,Stationery,24
+64,Notebook 4,3,Stationery,26
+65,Notebook 5,3,Stationery,28
+66,Notebook 6,3,Stationery,30
+67,Notebook 7,3,Stationery,32
+68,Notebook 8,3,Stationery,34
+69,Notebook 9,3,Stationery,36
+70,Notebook 10,3,Stationery,38
+71,Notebook 11,3,Stationery,40
+72,Notebook 12,3,Stationery,42
+73,Notebook 13,3,Stationery,44
+74,Notebook 14,3,Stationery,46
+75,Notebook 15,3,Stationery,48
+76,Notebook 16,3,Stationery,50
+77,Notebook 17,3,Stationery,52
+78,Notebook 18,3,Stationery,54
+79,Notebook 19,3,Stationery,56
+80,Notebook 20,3,Stationery,58
+81,T-Shirt Size 1,5,Clothing,250
+82,T-Shirt Size 2,5,Clothing,260
+83,T-Shirt Size 3,5,Clothing,270
+84,T-Shirt Size 4,5,Clothing,280
+85,T-Shirt Size 5,5,Clothing,290
+86,T-Shirt Size 6,5,Clothing,300
+87,T-Shirt Size 7,5,Clothing,310
+88,T-Shirt Size 8,5,Clothing,320
+89,T-Shirt Size 9,5,Clothing,330
+90,T-Shirt Size 10,5,Clothing,340
+91,Milk 1L,5,Daily Essentials,60
+92,Milk 2L,5,Daily Essentials,65
+93,Milk 3L,5,Daily Essentials,70
+94,Milk 4L,5,Daily Essentials,75
+95,Milk 5L,5,Daily Essentials,80
+96,Milk 6L,5,Daily Essentials,85
+97,Milk 7L,5,Daily Essentials,90
+98,Milk 8L,5,Daily Essentials,95
+99,Milk 9L,5,Daily Essentials,100
+100,Milk 10L,5,Daily Essentials,105

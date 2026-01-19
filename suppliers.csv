@@ -1,0 +1,6 @@
+supplier_id,supplier_name,contact_name,contact_email,phone,address,city,country
+1,Global Tech,Ramesh Kumar,ramesh@globaltech.com,+91-9876543210,123 Tech Park,Mumbai,India
+2,Fresh Foods,Snehal Joshi,snehal@freshfoods.com,+91-9123456780,45 Food Street,Delhi,India
+3,Office Supplies Co.,Rahul Sharma,rahul@officesupplies.com,+91-9988776655,12 Market Road,Bangalore,India
+4,Gadget World,Neha Singh,neha@gadgetworld.com,+91-9871234567,88 Tech Lane,Hyderabad,India
+5,Daily Essentials,Amit Verma,amit@dailyessentials.com,+91-9123344556,77 Main Street,Pune,India
