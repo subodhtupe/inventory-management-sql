@@ -35,3 +35,4 @@ It helps manage products, suppliers, inventory stock, and sales data.
 
 ## 👤 Author
 Subodh Ramesh Tupe
+
